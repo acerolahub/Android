@@ -59,7 +59,7 @@ dependencies {
     implementation "androidx.core:core:$version_core"
 
     // Material Design
-    implementation "com.google.android.material:material:$version_material"
+    implementation "com.google.android.material:material:$version_material"  // for navigation drawer
 
     // Navigation
     implementation "android.arch.navigation:navigation-fragment-ktx:$version_navigation"
