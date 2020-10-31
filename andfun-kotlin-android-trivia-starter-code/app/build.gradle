@@ -20,7 +20,8 @@ apply plugin: 'kotlin-android'
 
 apply plugin: 'kotlin-kapt'
 
-apply plugin: 'androidx.navigation.safeargs'
+apply plugin: 'androidx.navigation.safeargs'  // This line is for safe argument passing
+
 
 android {
     compileSdkVersion 30
